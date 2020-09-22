@@ -1,10 +1,5 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "bootstrap-social": "5.1.1",
-    "font-awesome": "4.7.0",
-    "react-router-dom": "4.2.2"
-=======
+
   "name": "project",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +34,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 81d6b5c4990672c578c22125897e881e91e438a5
+
   }
 }
